@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Generated files
+output/*
+
+# Misc
+.DS_Store
+*.log
